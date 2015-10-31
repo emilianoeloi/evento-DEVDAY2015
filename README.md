@@ -179,3 +179,29 @@ pt.khanacadamig.og
 
  Ana Paula Gomes
 
+
+# A Arquitetura (Peculiar) do Stack Overflow
+
+Na Stack Exchange, estamos acostumados a desobedecer convenções e quebrar paradigmas. Indo frequentemente na contramão do que é considerado boa prática, conseguimos manter no ar uma rede de sites que recebe 20 milhões de visitantes únicos por mês usando apenas 9 servidores web. Nossa arquitetura é monolítica, usamos nosso próprio data center (nada de cloud!), metade do nosso time trabalha remotamente (e em diferentes fusos), não escrevemos testes automatizados e frequentemente reinventamos rodas. Nossa obsessão por performance gerou vários projetos open source interessantes, e permitiu que tivéssemos uma infra estrutura até vinte vezes mais enxuta que sites de tamanho similar. Nessa palestra vou explicar como funciona nossa arquitetura e as motivações por trás de tantas escolhas controversas. A julgar pelos números, está dando certo.
+
+Pragmatismo
+
+- Performance
+
+c#, asp.net mvc
+
+less/jquery
+
+sql server
+
+elastic search
+
+
+
+ Começou em 2008
+ 10M perguntas
+
+ http://stackexchange.com/about/performance
+
+ Roberta Arcoverde 
+
