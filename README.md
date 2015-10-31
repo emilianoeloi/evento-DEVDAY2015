@@ -112,3 +112,70 @@ recursos extramamento carros
 tornamse rapidamenteo obsoletos
 
  Felipe Silvestre
+
+
+# House of Data - ciência de dados para desenvolvedores
+
+Hoje produzimos milhões de dados e temos o desafio de extrair informações relevantes desses dados. Nesta palestra serão exibidas técnicas e bibliotecas que o desenvolvedor poderá utilizar para extrair informações úteis e produzir softwares mais inteligentes.
+
+Ciencia de dados
+
+minercao , coleta
+
+comportamento de uristas
+
+Redes complexas
+https://pt.wikipedia.org/wiki/House_of_Cards_(s%C3%A9rie)
+https://www.quora.com/
+
+data
+business
+math and algorighms
+
+Aprendizado de máquina
+Mineração
+Modelo que represente um comportamente
+
+Grafico
+cumputer science 
+moth & statics
+subject matter expertise
+
+Linguagens: Python, R, Scala
+
+- Processo
+ - Coleta de dados
+ 	API (Tweeter) até 7 dias atras / apis.io - Requests 
+ 	Crawlers pyQuery
+ 	Apps
+ 	Arquivos
+ - Preparação () Pandas / Numpy
+ 	Remover ruidos
+ 	curzamento de informação
+ 	manipulação
+ 	Aprendizado de máquina
+ 	Grafos
+ - Descoberta (machine learning) Qual é a pergunta voce quer responder?
+ 	scikit-learn
+ 	NetworkX
+ - Visualização
+  D3Js
+  matplotlib
+
+  Por onde começar:Leia Bastante
+  sabe um pouco do negocio
+  saber de estatísticas
+  saber programar
+
+  escolhr um projeto que te interesse
+
+udcity
+
+kaggle.com
+
+guidetodatamining.com
+
+pt.khanacadamig.og
+
+ Ana Paula Gomes
+
